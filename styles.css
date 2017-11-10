@@ -1,0 +1,26 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 25px 50px 25px 50px;
+    background-color: #999;
+    font-size: 18px;
+    border: 12px double lightblue;
+    padding-top: 30px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+}
+
+head {
+    font-size: 30px;
+    color: #8b3a62;
+}
+
+img {
+    height: 300px;
+    max-width: 500px; 
+}
+
+figcaption {
+    font-size: 12px;
+}
